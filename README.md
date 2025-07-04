@@ -21,3 +21,26 @@ Tools: VS Code, Git,Thunder Client <br>
 
 # 💡 Use Case: <br>
 Ideal for small teams or admin panels where user information needs to be added, viewed, updated, or removed efficiently.
+
+
+
+## Getting Started
+
+1. Clone the repository
+2. Navigate to `Client/` and run:
+3. Navigate to `Server/` and run:
+
+# Ensure that you have Node.js and npm installed.
+
+
+
+#👨‍💻 1. Client Folder ke liye (React): <br>
+cd Server <br>
+npm install <br>
+node index.js     <br>
+
+
+ # 2. Server Folder ke liye (Node.js + Express): <br>
+cd Server <br>
+npm install <br>
+node index.js     <br>
