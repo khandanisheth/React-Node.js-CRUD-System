@@ -44,3 +44,14 @@ node index.js     <br>
 cd Server <br>
 npm install <br>
 node index.js     <br>
+
+
+# CREATE TABLE 
+
+CREATE TABLE `react_tb` (
+  `id` int NOT NULL AUTO_INCREMENT,
+  `name` varchar(45) NOT NULL,
+  `email` varchar(45) NOT NULL,
+  `num` varchar(13) NOT NULL,
+  PRIMARY KEY (`id`)
+) 
